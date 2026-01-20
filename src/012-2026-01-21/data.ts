@@ -60,6 +60,24 @@ export const orgs: IOrg[] = [
 
 export const communityMeetups: IEvent[] = [
   {
+    title: "Vue.js Paris #32",
+    date: "22 Janvier 2026",
+    location: "Paris, FR",
+    groupName: "Vue.js Paris",
+  },
+  {
+    title: "Effect Paris #6",
+    date: "3 février 2026",
+    location: "Paris, FR",
+    groupName: "Effect Paris",
+  },
+  {
+    title: "Paris TypeScript #46",
+    date: "10 février 2026",
+    location: "Paris, FR",
+    groupName: "Paris TypeScript",
+  },
+  {
     title: "React Paris Conf",
     date: "26-27 Mars 2026",
     location: "Paris, FR",
